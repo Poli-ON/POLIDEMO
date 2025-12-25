@@ -1,4 +1,4 @@
-# POLIDEMO: hh
+# POLIDEMO
 
 [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.apenergy.2025.126744-blue)](https://doi.org/10.1016/j.apenergy.2025.126744)
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2023%2B-orange)](https://www.mathworks.com/products/matlab.html)
